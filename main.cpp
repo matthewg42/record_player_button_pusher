@@ -6,9 +6,9 @@ Servo sg90;
 #define PIR_PIN				A1
 #define LED_PIN				13
 #define SERVO_PIN			11	
-#define REST_POS			30
-#define PRESS_POS			65
-#define PRESS_DELAY_MS		500
+#define REST_POS			40
+#define PRESS_POS			60
+#define PRESS_DELAY_MS		100
 #define MOVE_DELAY_MS		15
 #define REST_DELAY_SEC		12
 #define HEARTBEAT_DELAY 	2000
