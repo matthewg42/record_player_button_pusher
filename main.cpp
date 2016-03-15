@@ -10,7 +10,7 @@ Servo sg90;
 #define PRESS_POS			68
 #define PRESS_DELAY_MS		50
 #define MOVE_DELAY_MS		15
-#define REST_DELAY_SEC		(8*60)	
+#define REST_DELAY_SEC		(16*60)	
 #define HEARTBEAT_DELAY 	2000
  
 int pos;
